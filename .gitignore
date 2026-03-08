@@ -1,0 +1,31 @@
+# C++ and Qt .gitignore
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+*.so
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# IDE files
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.pro.user-
+.sublime-workspace
+*.swp
+
+# Temporary files
+*~
+*.tmp
